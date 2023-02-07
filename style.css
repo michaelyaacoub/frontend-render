@@ -1,0 +1,43 @@
+body {
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 2rem;
+}
+
+.sec-1 {
+    background: #e95757;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+}
+
+.head-title {
+    background-color: #000;
+    padding: 1rem;
+}
+
+.head-title > h2{
+    color: #e95757;
+}
+
+p {
+    padding: 4rem;
+
+}
+
+
+.sec-2 {
+    background: #e4cb3a;
+}
+
+.sec-3 {
+    background: #cce957;
+}
+.sec-4 {
+    background: #88f062;
+}
